@@ -1,16 +1,3 @@
 # classification
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Flutter-based application that utilizes the TensorFlow Lite library to perform various image recognition tasks. The app supports multiple models, including MobileNet, SSD MobileNet, Tiny YOLOv2, DeepLab, and PoseNet. Users can select the desired model and pick an image from their gallery to perform tasks such as object detection, semantic segmentation, and pose estimation. The app provides real-time feedback and displays the results on the screen. It is an excellent example of how to integrate TensorFlow Lite models into a Flutter application for on-device machine learning.
