@@ -1,0 +1,6 @@
+0 potholes
+1 fire hazards
+2 illegal dumbing
+3 leaking water pipes
+4 broken traffic lights
+5 broken street lights
